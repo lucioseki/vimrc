@@ -16,6 +16,7 @@ set wildmode=list:longest,full
 set backup
 set backupdir=~/.vim/backup
 set directory=~/.vim/tmp
+set cmdheight=3
 
 " Underline current line
 set cul
