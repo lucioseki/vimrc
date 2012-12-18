@@ -3,7 +3,6 @@ set number
 
 " 2 spaces instead of tab
 set autoindent
-set expandtab
 set smarttab
 set shiftwidth=2
 set softtabstop=2
