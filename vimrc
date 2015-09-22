@@ -33,6 +33,7 @@ call vundle#end()
 filetype plugin indent on
 " Vundle stuff end
 
+set hlsearch
 set number
 set expandtab
 set tabstop=4
