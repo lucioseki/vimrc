@@ -8,6 +8,7 @@ call vundle#begin()
 
 " Plugins to be imported by vundle
 Plugin 'altercation/vim-colors-solarized'
+Plugin 'Chiel92/vim-autoformat'
 Plugin 'editorconfig/editorconfig-vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'scrooloose/syntastic'
